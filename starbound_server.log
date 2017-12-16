@@ -1,0 +1,55 @@
+[20:14:06.205] [Info] Root: Preparing Root...
+[20:14:06.211] [Info] Root: Done preparing Root.
+[20:14:06.215] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[20:14:06.226] [Info] Root: Loaded Configuration in 0.011536 seconds
+[20:14:06.740] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[20:14:06.743] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[20:14:06.746] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[20:14:06.748] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[20:14:06.750] [Info] Loading assets from: '..\assets\packed.pak'
+[20:14:07.369] [Info] Loading assets from: '..\assets\user'
+[20:14:08.146] [Info] Assets digest is 563ff626b877e7d080472517395bc6c4eda613eaf6ac1576e95136a4ca9b3d64
+[20:14:08.148] [Info] Root: Loaded Assets in 1.93551 seconds
+[20:14:08.161] [Info] Root: Loaded NameGenerator in 1.93395 seconds
+[20:14:08.300] [Info] Root: Loaded PlantDatabase in 0.135885 seconds
+[20:14:08.571] [Info] Root: Loaded ObjectDatabase in 0.420608 seconds
+[20:14:08.737] [Info] Root: Loaded MonsterDatabase in 0.163651 seconds
+[20:14:08.779] [Info] Root: Loaded NpcDatabase in 0.0400419 seconds
+[20:14:08.783] [Info] Root: Loaded StagehandDatabase in 0.00211529 seconds
+[20:14:08.789] [Info] Root: Loaded VehicleDatabase in 0.00391508 seconds
+[20:14:08.794] [Info] Root: Loaded PlayerFactory in 0.00258831 seconds
+[20:14:08.811] [Info] Root: Loaded ProjectileDatabase in 0.50873 seconds
+[20:14:08.816] [Info] Root: Loaded VersioningDatabase in 0.00205785 seconds
+[20:14:08.818] [Info] Root: Loaded EntityFactory in 0.0221305 seconds
+[20:14:08.893] [Info] Root: Loaded ParticleDatabase in 0.07297 seconds
+[20:14:08.899] [Info] Root: Loaded ImageMetadataDatabase in 1.64102e-06 seconds
+[20:14:09.126] [Info] Root: Loaded MaterialDatabase in 0.305215 seconds
+[20:14:09.133] [Info] Root: Loaded TerrainDatabase in 0.0055278 seconds
+[20:14:09.174] [Info] Root: Loaded BiomeDatabase in 0.0376349 seconds
+[20:14:09.178] [Info] Root: Loaded LiquidsDatabase in 0.00087795 seconds
+[20:14:09.189] [Info] Root: Loaded StatusEffectDatabase in 0.00721806 seconds
+[20:14:09.482] [Info] Root: Loaded DamageDatabase in 0.29103 seconds
+[20:14:09.490] [Info] Root: Loaded EffectSourceDatabase in 0.00553109 seconds
+[20:14:09.497] [Info] Root: Loaded FunctionDatabase in 0.00399755 seconds
+[20:14:09.526] [Info] Root: Loaded TreasureDatabase in 0.0273838 seconds
+[20:14:09.759] [Info] Root: Loaded DungeonDefinitions in 0.230795 seconds
+[20:14:09.763] [Info] Root: Loaded TilesetDatabase in 5.66155e-05 seconds
+[20:14:09.769] [Info] Root: Loaded StatisticsDatabase in 0.00305642 seconds
+[20:14:09.772] [Info] Root: Loaded EmoteProcessor in 0.000100923 seconds
+[20:14:09.782] [Info] Root: Loaded SpeciesDatabase in 0.00729314 seconds
+[20:14:09.800] [Info] Root: Loaded QuestTemplateDatabase in 0.0150515 seconds
+[20:14:09.804] [Info] Root: Loaded AiDatabase in 0.00174277 seconds
+[20:14:09.808] [Info] Root: Loaded TechDatabase in 0.00139816 seconds
+[20:14:09.817] [Info] Root: Loaded CodexDatabase in 0.00670278 seconds
+[20:14:10.134] [Info] Root: Loaded BehaviorDatabase in 0.314367 seconds
+[20:14:10.141] [Info] Root: Loaded DanceDatabase in 0.00423508 seconds
+[20:14:10.151] [Info] Root: Loaded SpawnTypeDatabase in 0.00805212 seconds
+[20:14:10.159] [Info] Root: Loaded RadioMessageDatabase in 0.00502975 seconds
+[20:14:11.221] [Info] Root: Writing runtime configuration to '..\storage\starbound_server.config'
+[20:14:11.604] [Info] Root: Loaded ItemDatabase in 2.79033 seconds
+[20:14:11.726] [Info] Root: Loaded CollectionDatabase in 1.5629 seconds
+[20:14:11.854] [Info] Server Version 1.3.3 (windows x86_64) Source ID: c21069b204d626bfe673a047a2100d2fcd0766d4 Protocol: 743
+[20:14:11.859] [Info] UniverseServer: Acquiring universe lock file
+[20:14:11.877] [Info] UniverseServer: Loading settings
+[20:14:11.906] [Info] UniverseServer: Starting UniverseServer with UUID: 34105eb9459520fbe708ea507c42bbd4
+[20:14:11.913] [Info] UniverseServer: listening for incoming TCP connections on 0.0.0.0:21025

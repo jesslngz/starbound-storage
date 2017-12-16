@@ -1,0 +1,273 @@
+[17:19:16.008] [Info] Root: Preparing Root...
+[17:19:16.010] [Info] Root: Done preparing Root.
+[17:19:16.010] [Info] Client Version 1.3.3 (windows x86_64) Source ID: c21069b204d626bfe673a047a2100d2fcd0766d4 Protocol: 743
+[17:19:16.011] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[17:19:16.834] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[17:19:16.835] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[17:19:16.835] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[17:19:16.835] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[17:19:16.835] [Info] Loading assets from: '..\assets\packed.pak'
+[17:19:17.746] [Info] Loading assets from: '..\assets\user'
+[17:19:18.703] [Info] Assets digest is 563ff626b877e7d080472517395bc6c4eda613eaf6ac1576e95136a4ca9b3d64
+[17:19:18.703] [Info] Root: Loaded Assets in 2.69191 seconds
+[17:19:18.711] [Info] Application: Initializing SDL Video
+[17:19:18.720] [Info] Application: Initializing SDL Joystick
+[17:19:18.832] [Info] Application: Initializing SDL Sound
+[17:19:19.253] [Info] Initialized Steam services
+[17:19:19.256] [Info] Application: Creating SDL Window
+[17:19:19.548] [Info] Application: Enabling VSync with late swap tearing
+[17:19:19.576] [Info] Application: Opened default audio device with 44.1khz / 16 bit stereo audio, 2048 sample size buffer
+[17:19:19.580] [Info] OpenGL version: '4.4.0 - Build 21.20.16.4534' vendor: 'Intel' renderer: 'Intel(R) HD Graphics 520' shader: '4.40 - Build 21.20.16.4534'
+[17:19:19.591] [Info] Application: initialization...
+[17:19:19.607] [Info] Root: Loaded Configuration in 0.0159101 seconds
+[17:19:19.610] [Info] Application: renderer initialization...
+[17:19:19.625] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[17:19:19.625] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 64
+[17:19:19.627] [Info] Root: Loaded ImageMetadataDatabase in 1.23077e-06 seconds
+[17:19:19.659] [Info] Application: main update loop...
+[17:19:19.661] [Info] Loading mods from user generated content with id '1215341873' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1215341873'
+[17:19:19.661] [Info] Loading mods from user generated content with id '1210045144' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1210045144'
+[17:19:19.661] [Info] Reloading to include all user generated content
+[17:19:19.661] [Info] Root: Reloading from disk
+[17:19:19.661] [Info] Root: Writing runtime configuration to '..\storage\starbound.config'
+[17:19:19.695] [Info] Root: Loaded Configuration in 0.00107938 seconds
+[17:19:19.695] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[17:19:20.369] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[17:19:20.369] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[17:19:20.371] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1215341873'
+[17:19:20.383] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1210045144'
+[17:19:20.394] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[17:19:20.394] [Info] Root: Detected asset source named 'Moonstone Furniture' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1215341873\contents.pak'
+[17:19:20.394] [Info] Root: Detected asset source named 'Cat Hats, Atomically assembled onto your friends cranium!' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1210045144\contents.pak'
+[17:19:20.394] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[17:19:20.394] [Info] Loading assets from: '..\assets\packed.pak'
+[17:19:21.342] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1215341873\contents.pak'
+[17:19:21.344] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1210045144\contents.pak'
+[17:19:21.345] [Info] Loading assets from: '..\assets\user'
+[17:19:22.155] [Info] Assets digest is 07903a933895713d0b8780e3651d57198ba0d8558ff6d609f3b259aae6924df0
+[17:19:22.155] [Info] Root: Loaded Assets in 2.45957 seconds
+[17:19:22.163] [Info] Root: Loaded ImageMetadataDatabase in 2.46153e-06 seconds
+[17:19:22.177] [Info] Root: Loaded NameGenerator in 0.0190318 seconds
+[17:19:22.387] [Info] Root: Loaded PlantDatabase in 0.210171 seconds
+[17:19:23.179] [Info] Root: Loaded ObjectDatabase in 1.02073 seconds
+[17:19:23.357] [Info] Root: Loaded ProjectileDatabase in 0.969433 seconds
+[17:19:23.505] [Info] Root: Loaded NpcDatabase in 0.148177 seconds
+[17:19:23.508] [Info] Root: Loaded StagehandDatabase in 0.0030683 seconds
+[17:19:23.518] [Info] Root: Loaded VehicleDatabase in 0.0101419 seconds
+[17:19:23.525] [Info] Root: Loaded PlayerFactory in 0.00648163 seconds
+[17:19:23.577] [Info] Root: Loaded MonsterDatabase in 0.398095 seconds
+[17:19:23.580] [Info] Root: Loaded VersioningDatabase in 0.00287138 seconds
+[17:19:23.580] [Info] Root: Loaded EntityFactory in 0.0551166 seconds
+[17:19:23.708] [Info] Root: Loaded ParticleDatabase in 0.127203 seconds
+[17:19:24.207] [Info] Root: Loaded MaterialDatabase in 0.626378 seconds
+[17:19:24.247] [Info] Root: Loaded TerrainDatabase in 0.0399852 seconds
+[17:19:24.346] [Info] Root: Loaded BiomeDatabase in 0.099117 seconds
+[17:19:24.350] [Info] Root: Loaded LiquidsDatabase in 0.00372635 seconds
+[17:19:24.372] [Info] Root: Loaded StatusEffectDatabase in 0.0220759 seconds
+[17:19:24.804] [Info] Root: Loaded DamageDatabase in 0.432261 seconds
+[17:19:24.823] [Info] Root: Loaded EffectSourceDatabase in 0.0185653 seconds
+[17:19:24.835] [Info] Root: Loaded FunctionDatabase in 0.0116197 seconds
+[17:19:24.904] [Info] Root: Loaded TreasureDatabase in 0.0686103 seconds
+[17:19:25.371] [Info] Root: Loaded DungeonDefinitions in 0.467398 seconds
+[17:19:25.372] [Info] Root: Loaded TilesetDatabase in 0.000162461 seconds
+[17:19:25.381] [Info] Root: Loaded StatisticsDatabase in 0.00899937 seconds
+[17:19:25.381] [Info] Root: Loaded EmoteProcessor in 0.000357333 seconds
+[17:19:25.403] [Info] Root: Loaded SpeciesDatabase in 0.0220746 seconds
+[17:19:25.440] [Info] Root: Loaded QuestTemplateDatabase in 0.0365444 seconds
+[17:19:25.442] [Info] Root: Loaded AiDatabase in 0.00216246 seconds
+[17:19:25.444] [Info] Root: Loaded TechDatabase in 0.00228266 seconds
+[17:19:25.465] [Info] Root: Loaded CodexDatabase in 0.0206691 seconds
+[17:19:26.100] [Info] Root: Loaded BehaviorDatabase in 0.634759 seconds
+[17:19:26.108] [Info] Root: Loaded DanceDatabase in 0.00733168 seconds
+[17:19:26.120] [Info] Root: Loaded SpawnTypeDatabase in 0.0124184 seconds
+[17:19:26.130] [Info] Root: Loaded RadioMessageDatabase in 0.00973168 seconds
+[17:19:28.711] [Info] Root: Loaded ItemDatabase in 5.13262 seconds
+[17:19:28.928] [Info] Root: Loaded CollectionDatabase in 2.79689 seconds
+[17:19:30.583] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[17:22:23.918] [Info] UniverseServer: Acquiring universe lock file
+[17:22:23.937] [Info] UniverseServer: Loading settings
+[17:22:23.956] [Info] UniverseServer: Starting UniverseServer with UUID: 34105eb9459520fbe708ea507c42bbd4
+[17:22:23.971] [Info] UniverseServer: Logged in player 'Nahui' locally
+[17:22:23.971] [Info] UniverseServer: Logged in account '<anonymous>' as player 'Nahui' from address local
+[17:22:23.986] [Info] UniverseServer: Loading system world (559864143, 108806496, 75113944) from disk storage
+[17:22:23.994] [Info] UniverseClient: Joined server as client 1
+[17:22:24.042] [Info] UniverseServer: Reviving player at CelestialWorld:559864143:108806496:75113944:10:1
+[17:22:24.042] [Info] UniverseServer: Client 'Nahui' <1> (local) connected
+[17:22:24.077] [Info] UniverseServer: Loading celestial world 559864143:108806496:75113944:10:1
+[17:22:24.153] [Info] Protected dungeonIds for world set to (65524)
+[17:22:24.278] [Info] UniverseServer: Warping player 1 to CelestialWorld:559864143:108806496:75113944:10:1=2850.86.695.861
+[17:22:24.400] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 64
+[17:22:24.401] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[17:22:24.413] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[17:22:24.413] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[17:22:24.414] [Info] Setting steam rich presence connection as steam id 76561198244578564
+[17:22:24.419] [Error] Cannot set Steam achievement kill10poptops
+[17:22:24.527] [Info] UniverseServer: listening for incoming TCP connections on 0.0.0.0:21025
+[17:22:25.699] [Info] Chat: <SAIL> I am detecting entities attracted by the moon's erchius deposits. Their interest in you will grow as you collect more fuel. I would define these entities as 'intractably deadly'. I salute your fearlessness.
+[17:23:38.285] [Info] Chat: <SAIL> I am detecting entities attracted by the moon's erchius deposits. Their interest in you will grow as you collect more fuel. I would define these entities as 'intractably deadly'. I salute your fearlessness.
+[17:28:17.057] [Info] UniverseServer: Loading client ship world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:28:17.193] [Info] Protected dungeonIds for world set to (65524)
+[17:28:17.649] [Info] UniverseServer: Warping player 1 to ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:28:17.660] [Info] Client received world stop packet, leaving: Removed
+[17:28:17.669] [Info] UniverseServer: Stopping idle world CelestialWorld:559864143:108806496:75113944:10:1
+[17:33:34.205] [Info] Flying ship for player 1 to 559864140:108806505:-275981903
+[17:33:34.205] [Info] UniverseServer: Creating new system world at location (559864140, 108806505, -275981903)
+[17:33:34.210] [Info] UniverseServer: Arriving ship for player 1 at 559864140:108806505:-275981903
+[17:34:21.867] [Info] Flying ship for player 1 to 559864140:108806505:-275981903
+[17:34:30.559] [Info] UniverseServer: Arriving ship for player 1 at 559864140:108806505:-275981903
+[17:34:39.305] [Info] UniverseServer: Creating celestial world 559864140:108806505:-275981903:3
+[17:34:39.338] [Info] Protected dungeonIds for world set to (65524)
+[17:34:40.031] [Info] UniverseServer: Warping player 1 to CelestialWorld:559864140:108806505:-275981903:3=6870.77
+[17:34:40.037] [Info] Client received world stop packet, leaving: Removed
+[17:34:40.545] [Info] UniverseServer: Stopping idle world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:39:46.906] [Info] UniverseServer: Loading client ship world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:39:47.030] [Info] Protected dungeonIds for world set to (65524)
+[17:39:47.349] [Info] UniverseServer: Warping player 1 to ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:39:47.366] [Info] Client received world stop packet, leaving: Removed
+[17:39:47.371] [Info] UniverseServer: Stopping idle world CelestialWorld:559864140:108806505:-275981903:3
+[17:40:02.371] [Info] Flying ship for player 1 to 559864140:108806505:-275981903
+[17:40:04.079] [Info] UniverseServer: Arriving ship for player 1 at 559864140:108806505:-275981903
+[17:42:21.330] [Info] UniverseServer: Creating temporary instance world 'InstanceWorld:spaceencounter:9ae64fdbfa50d139c856e969e3c6d5ea:3' with expiry time 600000
+[17:42:21.341] [Info] Protected dungeonIds for world set to (65524)
+[17:42:21.341] [Info] Placing dungeon spaceencounter
+[17:42:21.341] [Info] Forcing generation of dungeon spaceencounter
+[17:42:21.342] [Info] Placing dungeon at (0, 150)
+[17:42:23.355] [Info] Protected dungeonIds for world set to (0, 65524)
+[17:42:23.881] [Info] UniverseServer: Warping player 1 to InstanceWorld:spaceencounter:9ae64fdbfa50d139c856e969e3c6d5ea:3
+[17:42:24.748] [Info] UniverseServer: Stopping idle world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:42:24.758] [Info] Client received world stop packet, leaving: Removed
+[17:45:47.231] [Info] UniverseServer: Loading client ship world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:45:47.359] [Info] Protected dungeonIds for world set to (65524)
+[17:45:47.678] [Info] UniverseServer: Warping player 1 to ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:45:47.689] [Info] Client received world stop packet, leaving: Removed
+[17:45:47.698] [Info] UniverseServer: Stopping idle world InstanceWorld:spaceencounter:9ae64fdbfa50d139c856e969e3c6d5ea:3
+[17:46:26.881] [Info] Flying ship for player 1 to 559864140:108806505:-275981903
+[17:46:31.342] [Info] UniverseServer: Arriving ship for player 1 at 559864140:108806505:-275981903
+[17:46:34.160] [Info] Flying ship for player 1 to 559864140:108806505:-275981903:2
+[17:46:34.862] [Info] UniverseServer: Creating celestial world 559864140:108806505:-275981903:2
+[17:46:35.158] [Info] Protected dungeonIds for world set to (65524)
+[17:46:35.158] [Info] Placing dungeon aviantemple
+[17:46:35.375] [Info] Generating dungeon aviantemple
+[17:46:35.383] [Info] Placing dungeon at (3154, 1000)
+[17:46:37.089] [Warn] Failed to place dungeon object: sacrificialaltar direction: 0 position: (2955, 898)
+[17:46:37.283] [Warn] Failed to place dungeon object: sacrificialaltar direction: 1 position: (3445, 962)
+[17:46:37.327] [Warn] Failed to place dungeon object: sacrificialaltar direction: 1 position: (3462, 980)
+[17:46:37.924] [Info] Placing dungeon floranhuntinggrounds
+[17:46:37.982] [Info] Generating dungeon floranhuntinggrounds
+[17:46:37.991] [Info] Placing dungeon at (1070, 1000)
+[17:46:38.741] [Warn] Failed to place dungeon object: huntingplatformleaves direction: 1 position: (1193, 1001)
+[17:46:43.386] [Info] UniverseServer: Arriving ship for player 1 at 559864140:108806505:-275981903:2
+[17:46:43.440] [Info] UniverseServer: Stopping idle world CelestialWorld:559864140:108806505:-275981903:2
+[17:46:48.834] [Info] UniverseServer: Loading celestial world 559864140:108806505:-275981903:2
+[17:46:49.063] [Info] Protected dungeonIds for world set to (65524)
+[17:46:49.356] [Info] UniverseServer: Warping player 1 to CelestialWorld:559864140:108806505:-275981903:2
+[17:46:49.375] [Info] Client received world stop packet, leaving: Removed
+[17:46:49.375] [Info] UniverseServer: Stopping idle world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:49:22.521] [Info] Chat: <Esther> The Floran don't pay much attention to history, but they greatly value tradition. It's helpful to build a picture of the culture.
+[17:49:55.604] [Info] Chat: <Esther> How peculiar! But surprising information can be even more valuable than expected information...
+[17:52:11.161] [Info] Skipped event recording for nonexistent entity 6973
+[17:52:17.472] [Info] Skipped event recording for nonexistent entity 6975
+[17:56:32.420] [Info] UniverseServer: Expiring temporary world InstanceWorld:spaceencounter:9ae64fdbfa50d139c856e969e3c6d5ea:3
+[17:57:09.965] [Warn] Failed to place dungeon object: ironchest direction: 1 position: (3724, 987)
+[17:58:12.945] [Info] UniverseServer: Loading client ship world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:58:13.088] [Info] Protected dungeonIds for world set to (65524)
+[17:58:13.448] [Info] UniverseServer: Warping player 1 to ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[17:58:13.458] [Info] Client received world stop packet, leaving: Removed
+[17:58:13.481] [Info] UniverseServer: Stopping idle world CelestialWorld:559864140:108806505:-275981903:2
+[17:58:48.219] [Info] UniverseServer: Loading celestial world 559864140:108806505:-275981903:2
+[17:58:48.429] [Info] Protected dungeonIds for world set to (65524)
+[17:58:48.729] [Info] UniverseServer: Warping player 1 to CelestialWorld:559864140:108806505:-275981903:2
+[17:58:48.804] [Info] Client received world stop packet, leaving: Removed
+[17:58:48.812] [Info] UniverseServer: Stopping idle world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[18:01:37.283] [Info] Skipped event recording for nonexistent entity 861
+[18:01:37.284] [Info] Skipped event recording for nonexistent entity 771
+[18:01:39.335] [Info] Skipped event recording for nonexistent entity 874
+[18:01:40.423] [Info] Skipped event recording for nonexistent entity 873
+[18:03:46.887] [Info] Skipped event recording for nonexistent entity 2966
+[18:16:33.131] [Info] UniverseServer: Creating temporary instance world 'InstanceWorld:challengerooms:74d15e89a78717d6ca1a7a90e435021f:2' with expiry time 0
+[18:16:33.144] [Info] Protected dungeonIds for world set to (65524)
+[18:16:33.144] [Info] Placing dungeon challengerooms
+[18:16:33.144] [Info] Forcing generation of dungeon challengerooms
+[18:16:33.146] [Info] Placing dungeon at (0, 1000)
+[18:16:33.930] [Info] Protected dungeonIds for world set to (0, 65524)
+[18:16:34.376] [Info] UniverseServer: Warping player 1 to InstanceWorld:challengerooms:74d15e89a78717d6ca1a7a90e435021f:2
+[18:16:34.389] [Info] UniverseServer: Stopping idle world CelestialWorld:559864140:108806505:-275981903:2
+[18:16:34.390] [Info] Client received world stop packet, leaving: Removed
+[18:19:50.444] [Info] UniverseServer: Loading celestial world 559864140:108806505:-275981903:2
+[18:19:50.678] [Info] Protected dungeonIds for world set to (65524)
+[18:19:50.849] [Info] UniverseServer: Warping player 1 to CelestialWorld:559864140:108806505:-275981903:2=3363.59.880.5
+[18:19:50.861] [Info] Client received world stop packet, leaving: Removed
+[18:19:50.976] [Info] UniverseServer: Stopping idle world InstanceWorld:challengerooms:74d15e89a78717d6ca1a7a90e435021f:2
+[18:19:51.121] [Info] UniverseServer: Expiring temporary world InstanceWorld:challengerooms:74d15e89a78717d6ca1a7a90e435021f:2
+[18:32:52.540] [Warn] Failed to place dungeon object: root1 direction: 1 position: (3169, 518)
+[18:32:52.551] [Warn] Failed to place dungeon object: root8 direction: 1 position: (3169, 521)
+[18:32:52.558] [Warn] Failed to place dungeon object: claypot1 direction: 1 position: (3162, 533)
+[18:32:54.769] [Warn] Failed to place dungeon object: woodenchest direction: 1 position: (3352, 551)
+[18:33:11.671] [Warn] Failed to place dungeon object: woodenchest direction: 1 position: (3587, 498)
+[18:33:40.616] [Warn] Failed to place dungeon object: woodenchest direction: 1 position: (2763, 518)
+[18:34:25.024] [Info] Root: Writing runtime configuration to '..\storage\starbound.config'
+[18:34:30.037] [Info] Root: Writing runtime configuration to '..\storage\starbound.config'
+[18:36:11.472] [Info] Skipped event recording for nonexistent entity 10362
+[18:36:11.498] [Info] Skipped event recording for nonexistent entity 10363
+[18:36:11.498] [Info] Skipped event recording for nonexistent entity 10364
+[18:36:11.498] [Info] Skipped event recording for nonexistent entity 10366
+[18:42:57.510] [Warn] Failed to place dungeon object: root1 direction: 1 position: (3752, 488)
+[18:42:57.519] [Warn] Failed to place dungeon object: root8 direction: 1 position: (3752, 491)
+[18:42:57.529] [Warn] Failed to place dungeon object: claypot1 direction: 1 position: (3745, 503)
+[18:45:34.969] [Warn] Failed to place dungeon object: woodenchest direction: 1 position: (3839, 470)
+[18:45:35.586] [Warn] Failed to place dungeon object: woodenchest direction: 1 position: (3839, 574)
+[18:53:49.433] [Info] UniverseServer: Loading client ship world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[18:53:49.614] [Info] Protected dungeonIds for world set to (65524)
+[18:53:50.179] [Info] UniverseServer: Warping player 1 to ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[18:53:50.209] [Info] Client received world stop packet, leaving: Removed
+[18:53:50.242] [Info] UniverseServer: Stopping idle world CelestialWorld:559864140:108806505:-275981903:2
+[18:59:00.727] [Info] UniverseServer: Creating temporary instance world 'InstanceWorld:outpost:-:-' with expiry time 0
+[18:59:00.740] [Info] Protected dungeonIds for world set to (65524)
+[18:59:00.740] [Info] Placing dungeon outpost
+[18:59:00.740] [Info] Forcing generation of dungeon outpost
+[18:59:00.754] [Info] Placing dungeon at (0, 750)
+[18:59:07.054] [Info] Protected dungeonIds for world set to (0, 65524)
+[18:59:08.319] [Info] Forcing generation of dungeon outpost_ursaminer
+[18:59:08.319] [Info] Placing dungeon at (406, 651)
+[18:59:08.326] [Info] Forcing generation of dungeon outpost_terramart
+[18:59:08.327] [Info] Placing dungeon at (332, 621)
+[18:59:08.334] [Info] Forcing generation of dungeon outpost_frogfurnishing
+[18:59:08.334] [Info] Placing dungeon at (332, 655)
+[18:59:08.345] [Info] Forcing generation of dungeon outpost_2stopshop
+[18:59:08.345] [Info] Placing dungeon at (427, 618)
+[18:59:08.351] [Info] Forcing generation of dungeon outpost_nuru
+[18:59:08.351] [Info] Placing dungeon at (838, 608)
+[18:59:08.391] [Info] Forcing generation of dungeon outpost_penguinbay
+[18:59:08.391] [Info] Placing dungeon at (452, 627)
+[18:59:08.400] [Warn] Failed to place dungeon object: outpostkeypad direction: 1 position: (461, 611)
+[18:59:08.402] [Info] Forcing generation of dungeon outpost_signstore
+[18:59:08.402] [Info] Placing dungeon at (308, 640)
+[18:59:08.409] [Info] Forcing generation of dungeon outpost_techscientist1
+[18:59:08.409] [Info] Placing dungeon at (355, 636)
+[18:59:08.416] [Warn] Failed to place dungeon object: drip1 direction: 1 position: (372, 634)
+[18:59:08.423] [Info] Forcing generation of dungeon outpost_lana
+[18:59:08.423] [Info] Placing dungeon at (964, 608)
+[18:59:08.471] [Info] Forcing generation of dungeon outpost_techscientist2
+[18:59:08.471] [Info] Placing dungeon at (355, 636)
+[18:59:08.482] [Warn] Failed to place dungeon object: drip1 direction: 1 position: (372, 634)
+[18:59:08.485] [Info] Forcing generation of dungeon outpost_beakeasy1
+[18:59:08.486] [Info] Placing dungeon at (447, 567)
+[18:59:08.503] [Info] Forcing generation of dungeon outpost_beakeasy2
+[18:59:08.503] [Info] Placing dungeon at (429, 567)
+[18:59:08.842] [Info] UniverseServer: Warping player 1 to InstanceWorld:outpost:-:-=outpost
+[18:59:10.084] [Info] UniverseServer: Stopping idle world ClientShipWorld:904cbdb1bbb902b01d77880d9f547b24
+[18:59:10.088] [Info] Client received world stop packet, leaving: Removed
+[19:01:00.389] [Info] UniverseClient: Client disconnecting...
+[19:01:00.399] [Info] Client received world stop packet, leaving: Removed
+[19:01:00.410] [Info] UniverseServer: Client 'Nahui' <1> (local) disconnected for reason: 
+[19:01:00.410] [Info] UniverseServer: Stopping idle world InstanceWorld:outpost:-:-
+[19:01:00.822] [Info] UniverseServer: Expiring temporary world InstanceWorld:outpost:-:-
+[19:01:00.967] [Info] UniverseServer: Stopping UniverseServer
+[19:01:00.969] [Info] UniverseServer: Stopping TCP Server
+[19:01:01.003] [Info] Clearing steam rich presence connection
+[19:01:02.058] [Info] Application: quit requested
+[19:01:02.058] [Info] Application: quitting...
+[19:01:02.058] [Info] Application: shutdown...
+[19:01:02.405] [Info] Root: Shutting down Root
+[19:01:02.927] [Info] Application: Destroying SDL Window
+[19:01:02.938] [Info] Application: stopped gracefully
